@@ -24,7 +24,7 @@ I work with HTML, CSS, JavaScript, React, Node.js, Express.js, Python, C++, Mong
   [View Project](https://www.figma.com/proto/l3MVgO3jQJ9vexkkbw8CeI/Travel-design?node-id=189-485&viewport=-676%2C-97%2C0.09&t=vhpStuQL7LGuyr1J-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=89%3A1930&page-id=0%3A1)
 
 - **Clinician Dashboard** — Dashboard case study for menstrual cycle data visualization.  
-  [View Project](https://www.figma.com/design/l3MVgO3jQJ9vexkkbw8CeI/Travel-design?node-id=0-1&p=f&t=O8gCiuYQgXYZ3FK2-0)
+  [View Project]([https://www.figma.com/design/l3MVgO3jQJ9vexkkbw8CeI/Travel-design?node-id=0-1&p=f&t=O8gCiuYQgXYZ3FK2-0](https://www.figma.com/proto/l3MVgO3jQJ9vexkkbw8CeI/Travel-design?node-id=89-1930&p=f&t=I9icppLS4UAfdnN8-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=89%3A1930))
 
 - **dawncreation-website** — Responsive website focused on clean UI and design aesthetics.  
   [View Project](https://dawncreation-website.netlify.app/)
