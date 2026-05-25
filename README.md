@@ -100,9 +100,9 @@ Responsive modern website focused on clean UI, responsiveness, and design aesthe
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditya-patwa18&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-patwa18&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -122,15 +122,15 @@ Responsive modern website focused on clean UI, responsiveness, and design aesthe
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/aditya-patwa18">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/adityajpatwa">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:aditya.j.patwa@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -142,6 +142,6 @@ Responsive modern website focused on clean UI, responsiveness, and design aesthe
 
 ### "Build consistently. Improve continuously."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=aditya-patwa18&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
