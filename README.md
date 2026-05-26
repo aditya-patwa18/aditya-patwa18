@@ -158,17 +158,7 @@ Responsive modern website focused on clean UI, responsiveness, and design aesthe
 
 ---
 
-## 📌 Top Languages
 
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-patwa18&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
----
 
 <div align="center">
 
