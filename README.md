@@ -162,7 +162,7 @@ Responsive modern website focused on clean UI, responsiveness, and design aesthe
 
 <div align="center">
 
-### "Build consistently. Improve continuously."
+### "Doing Something Is Better Than Doing Nothing!"
 
 <img src="https://komarev.com/ghpvc/?username=aditya-patwa18&label=Profile+Views&color=0e75b6&style=flat" />
 
