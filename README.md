@@ -162,7 +162,7 @@ Responsive modern website focused on clean UI, responsiveness, and design aesthe
 
 <div align="center">
 
-### "Good Things Take Time!"
+### "There Are Decades Where Nothing Happens And There Are Weeks Where Decades Happen "
 
 <img src="https://komarev.com/ghpvc/?username=aditya-patwa18&label=Profile+Views&color=0e75b6&style=flat" />
 
