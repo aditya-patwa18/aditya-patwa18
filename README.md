@@ -145,17 +145,6 @@ Responsive modern website focused on clean UI, responsiveness, and design aesthe
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-patwa18&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-patwa18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
 ---
 
 
