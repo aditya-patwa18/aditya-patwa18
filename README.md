@@ -61,12 +61,6 @@ const aditya = {
 
 ## 📌 Featured Projects
 
-### 🤖 AI Code Reviewer
-AI-powered code review platform that detects bugs, security issues, and performance improvements.
-
-🔗 [View Project](https://drive.google.com/file/d/1LpwsxFpjUXy0jXhfXE3lLqqjcFS2xPFu/view)
-
----
 
 ### 📚 SynapseLearn AI
 AI-powered learning platform for notes, quizzes, flashcards, coding practice, and progress tracking.
