@@ -65,7 +65,7 @@ const aditya = {
 ### 🤖 AI Code Reviewer
 AI-powered code review platform that detects bugs, security issues, and performance improvements.
 
-🔗 [View Project]([https://drive.google.com/file/d/1LpwsxFpjUXy0jXhfXE3lLqqjcFS2xPFu/view](https://drive.google.com/file/d/1LpwsxFpjUXy0jXhfXE3lLqqjcFS2xPFu/view?usp=sharing))
+🔗 [View Project](https://drive.google.com/file/d/1LpwsxFpjUXy0jXhfXE3lLqqjcFS2xPFu/view?usp=sharing)
 
 ---
 
